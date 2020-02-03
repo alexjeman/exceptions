@@ -1,1 +1,2 @@
-# exceptions
+# Exception and error handling
+# Fault tolerance methods
