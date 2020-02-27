@@ -1,5 +1,14 @@
 # Errors and Exceptions
 
+x = -5
+if x < 0:
+    raise Exception('x should not be negative.')
+
+
+x = -5
+assert (x >= 0), 'x is not positive.'
+
+
 try:
     a = 5 / 0
 except:
